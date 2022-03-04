@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\AP204_Loops\AP204_Loops\bin\Debug\netcoreapp3.1\AP204_Loops.exe
+C:\Users\Lenovo\source\repos\AP204_Loops\AP204_Loops\bin\Debug\netcoreapp3.1\AP204_Loops.deps.json
+C:\Users\Lenovo\source\repos\AP204_Loops\AP204_Loops\bin\Debug\netcoreapp3.1\AP204_Loops.runtimeconfig.json
+C:\Users\Lenovo\source\repos\AP204_Loops\AP204_Loops\bin\Debug\netcoreapp3.1\AP204_Loops.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\AP204_Loops\AP204_Loops\bin\Debug\netcoreapp3.1\AP204_Loops.dll
+C:\Users\Lenovo\source\repos\AP204_Loops\AP204_Loops\bin\Debug\netcoreapp3.1\AP204_Loops.pdb
+C:\Users\Lenovo\source\repos\AP204_Loops\AP204_Loops\obj\Debug\netcoreapp3.1\AP204_Loops.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AP204_Loops\AP204_Loops\obj\Debug\netcoreapp3.1\AP204_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\AP204_Loops\AP204_Loops\obj\Debug\netcoreapp3.1\AP204_Loops.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\AP204_Loops\AP204_Loops\obj\Debug\netcoreapp3.1\AP204_Loops.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\AP204_Loops\AP204_Loops\obj\Debug\netcoreapp3.1\AP204_Loops.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AP204_Loops\AP204_Loops\obj\Debug\netcoreapp3.1\AP204_Loops.dll
+C:\Users\Lenovo\source\repos\AP204_Loops\AP204_Loops\obj\Debug\netcoreapp3.1\AP204_Loops.pdb
+C:\Users\Lenovo\source\repos\AP204_Loops\AP204_Loops\obj\Debug\netcoreapp3.1\AP204_Loops.genruntimeconfig.cache
